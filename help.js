@@ -1,51 +1,163 @@
 
 const help = (prefix) => { 
 	return `  
- 銋ゃ叅銋ゃ叅銋ゃ叅銋ゃ叅 馃實
-    鈥⑩�⑩�⑩�⑩�⑩�⑩�㈥唳斷ВARR157 BOT唳斷В戋傗�⑩�⑩�⑩�⑩�⑩��
+ ㅤㅤㅤㅤㅤㅤㅤㅤ 🌍
+    •••••••꧁ঔৣBETOO Tঔৣ꧂••••••
 
-    鈺攢鈹�戋佲湠 COMANDOS 鉁炾鈹�鈹�馃攩
-    鈺戔暛鈹�鈹�戋佲湠 BOT 鉁炾鈹�鈹�馃攩 
-    鈺戔暛鈹�鈹�戋佲湠*MAKER*鉁炾鈹�鈹�馃攩
-    鈺戔暊鉃� *${prefix}ocr*
-    鈺戔暊鉃� *${prefix}sticker*
-    鈺戔暊鉃� *${prefix}tts*
-    鈺戔暊鉃� *${prefix}toimg*
-    鈺戔暊鉃� *${prefix}phlogo*
-    鈺戔暊鉃� *${prefix}glitch*
-    鈺戔暊鉃� *${prefix}text3d*
-    鈺戔暟鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈺戔暛鈹�鈹�戋佲湠*Kerang ajaib*鉁炾鈹�鈹�馃攩
-    鈺戔暊鉃� *${prefix}kapankah*
-    鈺戔暊鉃� *${prefix}apakah*
-    鈺戔暊鉃� *${prefix}bisakah*
-    鈺戔暊鉃� *${prefix}rate*
-    鉄炩煢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈺� 戋佮唰ｂ湠ARR157BOT鉁炧唰ｊ
-    鉄炩煢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈺戔暛鈹�鈹�戋佲湠*FUN*鉁炾鈹�鈹�馃攩
-    鈺戔暊鉃� *${prefix}meme*
-    鈺戔暊鉃� *${prefix}memeindo*
-    鈺戔暟鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鉄炩煢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈺� 戋佮唰ｂ湠ARR157BOT鉁炧唰ｊ
-    鉄炩煢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈺戔暛鈹�鈹�戋佲湠*DOWNLOAD*鉁炾鈹�鈹�馃攩
-    鈺戔暊鉃� *${prefix}tiktokstalk*
-    鈺戔暊鉃� *${prefix}ytmp4*
-    鈺戔暟鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈺戔暛鈹�鈹�戋佲湠*Other*鉁炾鈹�鈹�馃攩
-    鈺戔暊鉃� *${prefix}ping*
-    鈺戔暊鉃� *${prefix}fototiktok*
-    鈺戔暟鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�
-    鈹椻攣鈹呪攨鈹勨攧鉄炩煢 ARR157 BOT鉄р煗鈹勨攧鈹夆攭鈹佲敍
-  ESPERO QUE TENHAM GOSTADO DO BOT馃馃徎
+    ╭──꧁✞ COMANDOS ✞꧂──🔆
+    ║╭──꧁✞ BOT ✞꧂──🔆
+    ║╠➣ R$12.00 PRA ADD NO GRUPO 
+    ║╰───────────────── 
+    ⟞⟦────────────────🔰
+    ║ ꧁ঔৣ✞ARR 157 BOT✞ঔৣ꧂
+    ⟞⟦────────────────🔰
+    ║╭──꧁✞ 🌍INOFO COVID🌍 ✞꧂──🔆
+    ║║         🌍Mundial🌍
+    ║╠Casos: 89,742,458
+    ║╠Novos casos: +399,275
+    ║╠Mortes: 1,928,542
+    ║╠Novas Mortes: +7,423
+    ║╠Recuperados: 64,251,727
+    ║╠em tratamento: 23,562,189
+    ║╰───────────────── 
+    ⟞⟦────────────────🔰
+    ║ ꧁ঔৣ✞ARR157 BOT✞ঔৣ꧂
+    ⟞⟦────────────────🔰
+    ║╭──*About Bot*──🔆
+    ║╠➣ *${prefix}owner*
+    ║╠➣ *${prefix}donasi*
+    ║╠➣ *${prefix}info*
+    ║╠➣ *${prefix}botstat*
+    ║╠➣ *${prefix}bug*
+    ║╰───────────
+    ⟞⟦───────────────
+    ║꧁ঔৣ✞ARR157 BOT✞ঔৣ꧂
+    ⟞⟦───────────────
+    ║╭──꧁✞*MAKER*✞꧂──🔆
+    ║╠➣ *${prefix}ocr*
+    ║╠➣ *${prefix}sticker*
+    ║╠➣ *${prefix}tts*
+    ║╠➣ *${prefix}toimg*
+    ║╠➣ *${prefix}phlogo*
+    ║╠➣ *{prefix}quotemaker*
+    ║╠➣ *${prefix}ninjalogo*
+    ║╠➣ *${prefix}glitch*
+    ║╠➣ *${prefix}text3d*
+    ║╰───────────────
+    ║╭──꧁✞*Kerang ajaib*✞꧂──🔆
+    ║╠➣ *${prefix}kapankah*
+    ║╠➣ *${prefix}apakah*
+    ║╠➣ *${prefix}bisakah*
+    ║╠➣ *${prefix}rate*
+    ⟞⟦───────────────
+    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ⟞⟦───────────────
+    ║╭──꧁✞*FUN*✞꧂──🔆
+    ║╠➣ *${prefix}meme*
+    ║╠➣ *${prefix}memeindo*
+    ║╠➣ *${prefix}hilih*
+    ║╠➣ *${prefix}fitnah*
+    ║╠➣ *${prefix}truth*
+    ║╠➣ *${prefix}dare*
+    ║╠➣ *${prefix}bucin*
+    ║╠➣ *${prefix}persengay*
+    ║╰────────────────
+    ║╭──꧁✞*ANIME*✞꧂──🔆
+    ║╠➣ *${prefix}loli*
+    ║╠➣ *${prefix}nsfwloli*
+    ║╠➣ *${prefix}anime*
+    ║╠➣ *${prefix}randomanime*
+    ║╠➣ *${prefix}randomhentai*
+    ║╠➣ *${prefix}nsfwloli*
+    ║╠➣ *${prefix}nsfwblowjob*
+    ║╠➣ *${prefix}nsfwneko*
+    ║╠➣ *${prefix}nsfwtrap* 
+    ║╰────────────────
+    ⟞⟦───────────────
+    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ⟞⟦───────────────
+    ║╭──꧁✞*DOWNLOAD*✞꧂──🔆
+    ║╠➣ *${prefix}tiktokstalk*
+    ║╠➣ *${prefix}ytmp4*
+    ║╰────────────────
+    ║╭──꧁✞*Other*✞꧂──🔆
+    ║╠➣ *${prefix}ping*
+    ║╠➣ *${prefix}shorturl*
+    ║╠➣ *${prefix}fototiktok*
+    ║╠➣ *${prefix}kbbi*
+    ║╠➣ *${prefix}map*
+    ║╠➣ *${prefix}artinama*
+    ║╠➣ *${prefix}infogempa*
+    ║╠➣ *${prefix}quotes*
+    ║╠➣ *${prefix}cerpen*
+    ║╠➣ *${prefix}lirik*
+    ║╠➣ *${prefix}pokemon*
+    ║╠➣ *${prefix}chord*
+    ║╠➣ *${prefix}blocklist*
+    ║╠➣ *${prefix}hidetag*
+    ║╠➣ *${prefix}wolflogo*
+    ║╠➣ *${prefix}lionlogo*
+    ║╠➣ *${prefix}ssweb*
+    ║╠➣ *${prefix}anjing*
+    ║╠➣ *${prefix}indohot*
+    ║╰────────────────
+    ⟞⟦─🔰───────────────🔰─
+    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ⟞⟦─🔰───────────────🔰─
+    ║╭──꧁✞*GRUPO*✞꧂──🔆
+    ║╠➣ *${prefix}linkgc*
+    ║╠➣ *${prefix}tagall*
+    ║╠➣ *${prefix}add* [+55xx]
+    ║╠➣ *${prefix}group* [buka/tutup]
+    ║╠➣ *${prefix}demote* [tag]
+    ║╠➣ *${prefix}promote* [tag]
+    ║╠➣ *${prefix}kick* [tag]
+    ║╠➣ *${prefix}listadmin*
+    ║╠➣ *${prefix}simih* [1/0]
+    ║╠➣ *${prefix}nsfw* [1/0]
+    ║╠➣ *${prefix}welcome* [1/0]
+    ║╰────────────────
+    ⟞⟦─🔰───────────────🔰─
+    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ⟞⟦─🔰───────────────🔰─
+    ║╭──꧁✞SOBRE O BOT✞꧂─
+    ║╠➣ OFF
+    ║╠➣ OFF
+    ║╰────────────────
+    ⟞⟦─🔰───────────────🔰─
+    ║ ꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ⟞⟦─🔰───────────────🔰─
+    ║╭──꧁✞*Owner bot*✞꧂─
+    ║╠➣ *${prefix}clearall*
+    ║╠➣ *${prefix}block*
+    ║╠➣ *${prefix}unblock*
+    ║╠➣ *${prefix}bc*
+    ║╠➣ *${prefix}leave*
+    ║╠➣ *${prefix}setpp*
+    ║╠➣ *${prefix}setprefix*
+    ║╰────────────────
+    ⟞⟦─🔰───────────────🔰─
+    ║꧁ঔৣ✞ARR157BOT✞ঔৣ꧂
+    ⟞⟦─🔰───────────────🔰─
+    ║╭──꧁✞ ADMIN ✞꧂──🔆
+    ║╠➣ Group WhatsApp
+    ║║  OFF
+    ║╠➣ YouTube <subscribe>https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
+    ║║ 
+    ║╠➣ Instagram 
+    ║║  OFF
+    ║╠➣ Creator BRUXINHO MODS
+    ║║ Wa.me/+56945020187
+    ║║ 
+    ║╰─────────────────
+    ┗━┅┅┄┄⟞⟦ ARR157 BOT⟧⟝┄┄┉┉━┛
+  ESPERO QUE TENHAM GOSTADO DO BOT🤙🏻
 
 
 
 Criador: BRUXINHO MODS 
 
-脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=脳=              
+×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=×=              
 
 `
 }
